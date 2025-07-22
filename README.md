@@ -3,9 +3,8 @@
 
 <!-- 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0088FF&width=435&lines=Hello+I'm+Bada!;Software+Developer+in+the+making.;I+love+to+build+and+learn!;Welcome+to+my+GitHub+Profile!+💙" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0088FF&width=435&lines=Hello+I'm+Bada!;Software+Developer+in+the+making.;I+love+to+build+and+learn!;Welcome+to+my+GitHub+Profile!+💙" />
 </p>
-
 ---
 
 <!-- 소개 -->
