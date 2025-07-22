@@ -1,9 +1,9 @@
 <!-- 상단 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&text=Hi%20there!%20I'm%20Badan%20👩‍💻&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&text=Hi%20there!%20I'm%20Bada%20👩‍💻&fontSize=35&fontColor=ffffff" />
 
 <!-- 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0088FF&width=435&lines=Hello+I'm+Gayeon!;Software+Developer+in+the+making.;I+love+to+build+and+learn!;Welcome+to+my+GitHub+Profile!+💙" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0088FF&width=435&lines=Hello+I'm+Bada!;Software+Developer+in+the+making.;I+love+to+build+and+learn!;Welcome+to+my+GitHub+Profile!+💙" />
 </p>
 
 ---
@@ -11,8 +11,8 @@
 <!-- 소개 -->
 <h2 align="center">👩‍🔧 More about me</h2>
 <p align="center">
-  열정적인 개발자 지망생으로 <strong>문제 해결</strong>과 <strong>새로운 기술 학습</strong>을 즐깁니다. <br/>
-  다양한 팀 프로젝트와 실무형 교육과정을 통해 협업 능력과 개발 경험을 쌓았습니다.
+  열정적인 개발자 바다입니다!<br/>
+  다양한 협업 프로젝트와 실무형 교육을 통해 <strong>문제 해결력</strong>과 <strong>UI/UX 감각</strong>을 갖춘 개발자로 성장 중이에요.
 </p>
 
 ---
@@ -63,30 +63,37 @@
 - 🎓 숙명여자대학교 IT공학전공 졸업 (2021.03 ~ 2025.08)
 - 📱 [IPS] 주변 식당 추천 안드로이드 앱 **"메뉴판"** 개발 (2023.03.31 ~ 2023.05.25)
 - 🧯 VR 기기를 활용한 응급처치 매뉴얼 및 가이드 마이크로소프트 앱 개발 (2023.10 ~ 2023.12)
-- 💳 [신한DS SW 금융 아카데미 5기] 참가 (2024.04 ~ 2024.10)
+- 💳 [신한DS SW 금융 아카데미 5기] (2024.04 ~ 2024.10)
   - 🔷 카드 소비 패턴 기반 카드 추천 시스템 기획 및 개발
-  - 🎨 카드 디자인 및 커스터마이징 플랫폼 **"카드가든"** 개발
-- 🐟 디스코드 챗봇 **"참치봇"** 개발 (2025.06 ~ 개발중)
+  - 🎨 카드 디자인 및 커스터마이징 웹 플랫폼 **"카드가든"** 제작
+- 🐟 디스코드 챗봇 **"참치봇"** 개발 (2025.06 ~ 개발 중)
 
 ---
 
+<!-- 자격증 -->
+<h2>📑 Certificate</h2>
 
+- 📝 (추가 예정)
+
+---
+
+<!-- 깃허브 통계 -->
 <h2>📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=깃허브아이디&theme=default)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bada-Yoo&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bada-Yoo&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bada-Yoo&theme=default)](https://git.io/streak-stats)
 
 ---
 
 <!-- Git Animals -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Bada-Yoo&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Bada-Yoo"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/farms/Bada-Yoo"
+    width="600"
+    height="300"
+  />
 </a>
 
-
+<!-- 푸터 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=footer"/>
