@@ -1,5 +1,5 @@
 <!-- 상단 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&text=Hi%20there!%20I'm%20Gayeon%20👩‍💻&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&text=Hi%20there!%20I'm%20Badan%20👩‍💻&fontSize=35&fontColor=ffffff" />
 
 <!-- 타이핑 애니메이션 -->
 <p align="center">
