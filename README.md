@@ -43,10 +43,6 @@
 **Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**AI**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
