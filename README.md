@@ -19,7 +19,7 @@
 <!-- 포트폴리오 -->
 <h2>🎤 Portfolio</h2>
 <p>
-  🔗 <a href="https://www.notion.so/gayeonportfolio/6e842c05b96b43919562cef19eaa8c6b" target="_blank">Notion Portfolio</a>
+  🔗 <a href="" target="_blank">Notion Portfolio</a>
 </p>
 
 ---
